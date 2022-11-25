@@ -37,3 +37,6 @@ Create a Pull Request and assign my user (@smatalonga) as the reviewer of the Pu
 The following are interesting links to compleate and complement your understanding and the  discussions during the class.
 * [What to look for in a code review](https://google.github.io/eng-practices/review/reviewer/looking-for.html)
 * [Dave Farley. Why Pull Requests are a bad idea](https://www.youtube.com/watch?v=ASOSEiJCyEM)
+
+The code in the workshop is inspired in "The Money Example" introduced in Kent Beck's book "Test Driven Development by Example" ([Amazon Link](https://smile.amazon.co.uk/Test-Driven-Development-Addison-Wesley-Signature/dp/0321146530/ref=sr_1_1?crid=3GIHWM03N5FZP&keywords=Tdd+by+example+kent+beck&qid=1669377197&sprefix=tdd+by+example+kent+beck%2Caps%2C92&sr=8-1).
+
