@@ -14,7 +14,7 @@ Please compleate the following tasks *before* the day of the workshop.
 # At the Workshop
 
 1) Clone this repository
-**Note**: This repository contains an Eclipse 2022 Jave Project. If you are using another IDE, you might need to download the code and create your own repository to complete the excercise.
+**Note**: This repository contains an Eclipse 2022 Java Project. If you are using another IDE, you might need to download the code and create your own repository to complete the excercise.
 2) Familiarise yourself with the code.
 * Does it compile?
 * Do the test run?
