@@ -9,7 +9,7 @@ Pull Requests are one of Githubs main communication mechanismos between develope
 Please compleate the following tasks *before* the day of the workshop. 
 
 1) Get aquianinted with the Workshop content by reading and compleating **[Github Skills Review Pull Requests tutorial](https://github.com/skills/review-pull-requests)**
-2) Check your understanding with this brief quizz.
+2) Check your understanding with this brief [quizz](https://b.socrative.com/login/student/).
 
 # At the Workshop
 
